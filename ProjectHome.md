@@ -1,0 +1,1 @@
+Java version of grid logistic regression (GLORE), which takes CSV files and local property files
