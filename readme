@@ -1,3 +1,8 @@
+
+ We use BSD 2-Clause license for this program
+
+  https://github.com/tsungtingkuo/ensemble/blob/master/LICENSE
+
 # # # # # # # # # # # # # # # # # CLIENT # # # # # # # # # # # # # # # # # # #
 1. Configure in "client_config" according to your data
 2. Compile and start Clients AFTER Server.
